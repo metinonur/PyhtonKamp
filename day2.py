@@ -119,7 +119,7 @@ fonk1 = calculatePrice(100,20)
 fonk2 = calculatePriceAndReturn(300,20)
 print(f"120.satır {fonk1}")
 print(f"121.satır {fonk2}")
-print("*******************************")
+print("********************************")
 
 #120.satırda  fonksiyondan bir geri dönüş olmadığı için çıktı alamımyoruz
 
